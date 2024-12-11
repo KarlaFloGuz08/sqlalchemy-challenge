@@ -46,3 +46,15 @@ List the stations and observation counts in descending order.
 Answer the following question: which station id has the greatest number of observations?
 'USC00519281',2772
 
+Design a query that calculates the lowest, highest, and average temperatures that filters on the most-active station id found in the previous query.
+
+Design a query to get the previous 12 months of temperature observation (TOBS) data. To do so, complete the following steps:
+
+Filter by the station that has the greatest number of observations.
+
+Query the previous 12 months of TOBS data for that station.
+
+Plot the results as a histogram with bins=12, as the following image shows:
+
+![image](https://github.com/user-attachments/assets/284ccaaf-9ed2-4ce4-9ff3-aa454e8d586b)
+
