@@ -44,7 +44,8 @@ Design a query to find the most-active stations (that is, the stations that have
 
 List the stations and observation counts in descending order.
 
-Answer the following question: which station id has the greatest number of observations?
+* Answer the following question: which station id has the greatest number of observations?
+  
 'USC00519281',2772
 
 Design a query that calculates the lowest, highest, and average temperatures that filters on the most-active station id found in the previous query.
